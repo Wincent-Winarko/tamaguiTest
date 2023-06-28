@@ -59,13 +59,11 @@ const NswCardTitle = styled(H2, {
       },
       white: {
         color: '$black',
-        borderWidth: 1,
       },
     },
     highlight: {
       true: {
         color: '$black',
-        borderWidth: 1,
       },
     },
   },
@@ -84,13 +82,11 @@ const NswCardText = styled(Paragraph, {
       },
       white: {
         color: '$black',
-        borderWidth: 1,
       },
     },
     highlight: {
       true: {
         color: '$black',
-        borderWidth: 1,
       },
     },
   },

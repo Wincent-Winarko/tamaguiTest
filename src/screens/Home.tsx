@@ -10,7 +10,7 @@ function HomeScreen() {
   return (
     <SafeAreaView>
       <ScrollView>
-        <Button onPress={() => navigation.navigate('Start')}>Start</Button>
+        <Button onPress={() => navigation.navigate('Test')}>Start</Button>
         <Text>Not Storybook!</Text>
         <CardComponent
           title="Get Help"
